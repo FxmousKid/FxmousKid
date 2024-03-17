@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🇭🇪🇱🇱🇴   ( · ❛ ֊ ❛)
 
-<!--
-**FxmousKid/FxmousKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### Some infos about me : 
+- 🏫  Currently studying in [Ecole42](https://42.fr) & [Paris Cite](https://u-paris.fr/en/)
+- 📖  Currently learning C 🇨, Ocaml 🐫 and Java ☕.
+- 🛠️  Work experience in Python : Scripting & automation w file management
+- 🏠  Currently Living in Paris, France (2023 - now)
+- 📫  You can reach me via mail : [my mail](iyan005@outlook.com) 
+- ⚡  Lunarvim and Tmux are all i need to be happy
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
