@@ -9,5 +9,9 @@
 - 🏠  Currently Living in Paris, France (2023 - now)
 - 📫  You can reach out to me via mail : [my mail](iyan005@outlook.com) 
 - ⚡  Lunarvim and Tmux are all i need to be happy
- 
+
+<br/> 
+<br/>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FxmousKid)](https://github.com/anuraghazra/github-readme-stats)
 
