@@ -13,5 +13,18 @@
 <br/> 
 <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FxmousKid)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="author">
+    <img width="45%" src="https://badge.nimon.fr/api/v2/cm233wmzl1491901pf54zatej7/stats?cursusId=9&coalitionId=108" />
+  </a>
+  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="author">
+    <img width="45%" src="https://badge.nimon.fr/api/v2/cm233wmzl1491901pf54zatej7/stats?cursusId=21&coalitionId=48" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="author">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=FxmousKid" />
+  </a>
+</div>
 
