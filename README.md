@@ -7,7 +7,7 @@
 - 💌  C and python are my favorite languages
 - 🛠️  Work experience in Python : Scripting & Web automation - Selenium
 - 🏠  Currently Living in Paris, France (2023 - now)
-- 📫  You can reach out to me via mail : [my mail](mailto:iyan005@outlook.com?subject=Test)
+- 📫  You can reach out to me via mail : [my mail](mailto:inazaria@student.42.fr?subject=Test)
 - ⚡  Firefox > Chrome
 
 <br/> 
