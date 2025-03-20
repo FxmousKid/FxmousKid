@@ -1,4 +1,4 @@
-### 🇭🇪🇱🇱🇴   ( · ❛ ֊ ❛)
+## Hey there ☺️
 
 <br/>
 
@@ -8,7 +8,7 @@
 - 🛠️  Work experience in Python : Scripting & Web automation - Selenium
 - 🏠  Currently Living in Paris, France (2023 - now)
 - 📫  You can reach out to me via mail : [my mail](mailto:inazaria@student.42.fr?subject=Test)
-- 🎓 I write **introduction to C** lectures for bachelor students.
+- 🎓 I write **introduction to C** <a href="https://github.com/FxmousKid/Universite/tree/main/Courses_I_Wrote/LC4" target="_blank">lectures</a> used for CS bachelors 
  
 <br/> 
 <br/>
