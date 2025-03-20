@@ -4,12 +4,12 @@
 
 ### Some infos about me : 
 - 🏫  Currently enrolled in [Ecole42](https://42.fr) & [Paris Cite](https://u-paris.fr/en/) (Bachelor in CS)
-- 💌  C and python are my favorite languages
+- 💌  C and python are what I work in daily
 - 🛠️  Work experience in Python : Scripting & Web automation - Selenium
 - 🏠  Currently Living in Paris, France (2023 - now)
 - 📫  You can reach out to me via mail : [my mail](mailto:inazaria@student.42.fr?subject=Test)
-- ⚡  Firefox > Chrome
-
+- 🎓 I write **introduction to C** lectures for bachelor students.
+ 
 <br/> 
 <br/>
 
