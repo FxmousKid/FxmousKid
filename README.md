@@ -8,4 +8,4 @@
 - 💌  low level enjoyer (Kernel, C, asm, and everthing in between)
 - 🛠️  Python developer (Majorly) and Fullstack (minorly)
 - 🏠  Paris, France
-- 📫  You can reach out to me via mail : [my mail](mailto:inquiries@iyannz.mozmail.com?subject=Test)
+- 📫  You can reach out to me via [mail](mailto:inquiries@iyannz.mozmail.com?subject=Test)
